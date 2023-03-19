@@ -1,0 +1,7 @@
+D:\Users\Никита\source\repos\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+D:\Users\Никита\source\repos\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+D:\Users\Никита\source\repos\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+D:\Users\Никита\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.AssemblyReference.cache
+D:\Users\Никита\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.CoreCompileInputs.cache
+D:\Users\Никита\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+D:\Users\Никита\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
